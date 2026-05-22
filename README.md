@@ -1,4 +1,4 @@
-# 📈 Trader Viktor
+# 📈 Linda — Multi-TF Regime Dashboard
 
 > **HMM-Powered Forex Scanner · XGBoost Signal Forecaster · Live Dashboard**
 
