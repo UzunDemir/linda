@@ -11,7 +11,7 @@
 
 ## ✨ What It Does
 
-Trader Viktor is an **end-to-end market analysis system** that combines Hidden Markov Models with gradient-boosted machine learning to detect, classify, and predict market regimes across 15 forex/crypto/metal instruments in real time.
+Linda is an **end-to-end market analysis system** that combines Hidden Markov Models with gradient-boosted machine learning to detect, classify, and predict market regimes across 15 forex/crypto/metal instruments in real time.
 
 **Key capabilities:**
 - 🔍 **Real-time regime detection** — 8-state HMM on 5 timeframes (M5 → D1) for each symbol
