@@ -25,6 +25,9 @@ Linda is an **end-to-end market analysis system** that combines Hidden Markov Mo
 
 <img width="1911" height="919" alt="image" src="https://github.com/user-attachments/assets/2d39e862-f709-4de2-bb1f-f225d1ce7e64" />
 
+<img width="1161" height="641" alt="image" src="https://github.com/user-attachments/assets/e1277d4c-9f3a-44b2-969b-688b7fedaae8" />
+
+
 
 ## 🏆 Results
 
