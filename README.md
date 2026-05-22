@@ -41,11 +41,11 @@ Linda is an **end-to-end market analysis system** that combines Hidden Markov Mo
 
 ```
                     ┌─────────────────────────────────┐
-                    │      MetaTrader 5 (Data Feed)    │
+                    │      MetaTrader 5 (Data Feed)   │
                     └──────────────┬──────────────────┘
                                    │ OHLCV bars
                     ┌──────────────▼──────────────────┐
-                    │  Feature Engine (10D vector)     │
+                    │  Feature Engine (10D vector)    │
                     │  ret · mom · vol · rsi · bb · vs│
                     └──────────────┬──────────────────┘
                                    │
