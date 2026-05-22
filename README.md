@@ -13,7 +13,10 @@
 
 Linda is an **end-to-end market analysis system** that combines Hidden Markov Models with gradient-boosted machine learning to detect, classify, and predict market regimes across 15 forex/crypto/metal instruments in real time.
 
-<img width="525" height="604" alt="image" src="https://github.com/user-attachments/assets/7c1424eb-40ea-4e8e-b975-988caca40a7e" /> <img width="513" height="635" alt="image" src="https://github.com/user-attachments/assets/22781be5-a5b1-47dd-80d4-886358e82c6f" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7c1424eb-40ea-4e8e-b975-988caca40a7e" width="45%" />
+  <img src="https://github.com/user-attachments/assets/22781be5-a5b1-47dd-80d4-886358e82c6f" width="45%" />
+</p>
 
 
 
